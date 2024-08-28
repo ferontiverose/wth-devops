@@ -1,6 +1,7 @@
 // Placeholder to host a component
 import React from "react";
 
+
     const Hours = () => {
         // add logic
 
